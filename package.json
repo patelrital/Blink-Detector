@@ -1,0 +1,12 @@
+{
+  "name": "archive-(1)",
+  "version": "1.0.0",
+  "description": "## Overview This system integrates hardware sensors and camera recording to detect and document blink events. It uses serial communication for sensor data and FFmpeg for video capture, providing synchronized logging of both sensor readings and video recordings.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
